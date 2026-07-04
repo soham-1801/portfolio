@@ -11,7 +11,7 @@ export const PERSONAL_INFO = {
   github: "https://github.com/soham-1801",
   linkedin: "https://www.linkedin.com/in/soham-mangroliya/",
   twitter: "https://twitter.com/soham-1801",
-  resumeUrl: "/resume.pdf",
+  resumeUrl: "/Soham_Resume.pdf",
 };
 
 export const SKILLS_DATA: SkillItem[] = [
